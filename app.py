@@ -49,3 +49,4 @@ pool.map(print_fibo, num_list)  # pool에 일을 던져 줍니다.
 
 print("----%s seconds----" % (time.time() - start_time))
 
+## 쿠팡 쇼핑몰 크롤링 로직 추가
